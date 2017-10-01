@@ -26,34 +26,21 @@ BMCも同じですが、起業キャンバスは本来「フェイズ」もっ�
 これから起業を考える皆さんが書くべきは「顧客獲得フェイズ」のキャンバスになります。
 以後も、顧客獲得フェイズを前提に書きます。
 書くべき順番に合わせて付番していますが、思いついた順で書いても良いです。
+
 1. VEo: Value Eco Original  現在の価値の流れ
-
 1. VEd: Value Eco Delived  このキャンバスの実現後の価値の流れ
-
 1. CSS: Customer Spatial Segment  顧客セグメント
-
 1. CTS: Custome Temporal Segment  上級顧客セグメント
-
 1. VCM: Value Capture Model  顧客獲得の方法
-
 1. VP: Value Proposition  価値命題
-
 1. PP: Price Proposition  価格命題
-
 1. P/F: Possibility/Feasibility  可能性、実現性
-
 1. CH: Channel  集客、デリバリー、支払いのチャンネル
-
 1. AR: Activity & Resource  行う事と、そのために必要なりソース
-
 1. A/C: Authensity Credencial  真正さと信頼度
-
 1. CM: Cost Model  かかるコスト
-
 1. R: Resisitance  反発
-
 1. B: ByProduct  副産物
-
 1. M: Manetize  マネタイズ
 
 ## VEo: Value Eco Original  
